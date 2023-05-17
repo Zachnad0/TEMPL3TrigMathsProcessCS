@@ -1,0 +1,15 @@
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.csproj.AssemblyReference.cache
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.AssemblyInfoInputs.cache
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.AssemblyInfo.cs
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\bin\Debug\net7.0\L3TrigMathsProcessTEMP.exe
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\bin\Debug\net7.0\L3TrigMathsProcessTEMP.deps.json
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\bin\Debug\net7.0\L3TrigMathsProcessTEMP.runtimeconfig.json
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\bin\Debug\net7.0\L3TrigMathsProcessTEMP.dll
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\bin\Debug\net7.0\L3TrigMathsProcessTEMP.pdb
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.dll
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\refint\L3TrigMathsProcessTEMP.dll
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.pdb
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\L3TrigMathsProcessTEMP.genruntimeconfig.cache
+C:\Users\Zacha\Documents\c# stuff and stuff cool yar\L3TrigMathsProcessTEMP\obj\Debug\net7.0\ref\L3TrigMathsProcessTEMP.dll
